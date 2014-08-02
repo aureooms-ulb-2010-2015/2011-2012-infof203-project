@@ -1,0 +1,26 @@
+8
+A
+B
+C
+a
+b
+c
+d
+e
+
+A
+C
+a
+c
+
+A B 5
+A d 1
+B C 1
+B d 2
+C e 1
+d e 1
+d a 1
+a b 1
+b e 2
+b c 5
+e c 1

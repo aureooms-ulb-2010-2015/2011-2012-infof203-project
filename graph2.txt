@@ -1,0 +1,51 @@
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+
+A
+D
+E
+H
+
+A D 80
+I F 20
+F B 50
+B I 40
+C E 20
+A B 8
+A I 1
+A C 1
+F G 80
+G C 8
+H D 50
+A F 200
+H B 8
+B E 90
+G I 800
+H G 900
+A E 8
+A H 4
+A G 2
+B C 1
+B G 3
+E H 9
+I H 90
+D F 80
+E G 30
+G D 4
+F E 4
+F H 60
+H C 20
+B D 8
+D E 4
+D I 8
+I E 5
+I C 4
+C D 2
